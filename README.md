@@ -18,4 +18,6 @@ Brainstorming and prototyping tools include premade shapes (and the ability to p
 There are also a selection of premade scripts that can allow hackers to quickly get started with making their ideas come to life!
 ![IMG_8054](https://user-images.githubusercontent.com/30807117/160245424-22485381-e1ae-4976-8e5e-8503ec41aba0.jpg)
 
+These script examples were used in the creation of this world. Community Script-Writers include: Flutt3r, Laex, burnbuns, aelichung, & betterworldmuseum.
 
+![Image description: Round garden with cacti and mushrooms.](https://user-images.githubusercontent.com/60051910/160248882-34ee9feb-476c-4d4d-9c80-eda95449d778.jpg)
