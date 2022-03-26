@@ -7,8 +7,7 @@ Garden Hacks, Script Examples, and Interactive Shapes offer visitors and groups 
 Built in Horizon Worlds. You can explore this world using this [link](https://www.oculus.com/vr/5107373709328441/)
 
 Disclaimer: Horizon Views requires a Quest 2 or Rift S headet! 
-
-![a selfie of the two creators](./Screenshots/the hack day 3.jpg)
+![a selfie of the two creators](https://user-images.githubusercontent.com/30807117/160246541-e03b4bd1-98e2-4203-bb4b-f4d3e0f1aa03.jpg)
 
 When you first enter the Media Lab, you are greeted with some wearable pronoun tags:
 ![a view of the entrance](https://user-images.githubusercontent.com/30807117/160245983-bd3f1e97-631a-48a4-b5dd-662925bbb9c7.png)
