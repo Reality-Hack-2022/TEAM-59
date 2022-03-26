@@ -1,4 +1,4 @@
-# RealityHack2022 Future MIT MediaLab
+# RealityHack2022 Media Lab Future
 Future Metaverse explores how people may gather to solve problems together today and the future in Social VR. 
 ![an external view of the future MIT Media Lab in Horizon Worlds](./Videos/exterior_perspective_gif.gif)
 
